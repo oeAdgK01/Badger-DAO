@@ -58,11 +58,11 @@
 
 **Ακολουθηστε**:
 
-ℹ️ **[Επισκεφτείτε τον Ιστότοπό μας](http://www.badger.finance/)**
-➡️ **[Δείτε το Github μας](https://github.com/Badger-Finance)**
-➡️ **[Εγγραφείτε στο Discord](https://discord.gg/xSPFHHS)**
-➡️ **[Ακολουθήστε μας στο Twitter](http://twitter.com/badgerdao)**
-➡️ **[Συνδεθείτε στο Telegram](https://t.me/badger_dao)**
+- ℹ️ **[Επισκεφτείτε τον Ιστότοπό μας](http://www.badger.finance/)**
+- ➡️ **[Δείτε το Github μας](https://github.com/Badger-Finance)**
+- ➡️ **[Εγγραφείτε στο Discord](https://discord.gg/xSPFHHS)**
+- ➡️ **[Ακολουθήστε μας στο Twitter](http://twitter.com/badgerdao)**
+- ➡️ **[Συνδεθείτε στο Telegram](https://t.me/badger_dao)**
 
 **Αυτό το άρθρο προορίζεται μόνο για ενημερωτικούς σκοπούς. Ζητήστε ανεξάρτητες νομικές και οικονομικές συμβουλές στη δικαιοδοσία σας προτού λάβετε επενδυτικές αποφάσεις.**
 
