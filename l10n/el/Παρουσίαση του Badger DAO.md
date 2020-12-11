@@ -167,3 +167,15 @@
 - **[Συνδεθείτε στο Telegram](http://www.t.me/badgerdao)**
 
 **Αυτό το άρθρο προορίζεται μόνο για ενημερωτικούς σκοπούς. Ζητήστε ανεξάρτητες νομικές και οικονομικές συμβουλές στη δικαιοδοσία σας προτού πάρετε επενδυτικές αποφάσεις**
+
+---
+
+**Πρωτότυπο Άρθρο (Αγγλική)**: [Introducing Badger DAO](https://badgerdao.medium.com/introducing-badger-dao-ed47a586c619)
+
+**Συντάκτης Πρωτότυπου Άρθρου**: [Badger DAO](https://badgerdao.medium.com/)
+
+**Ημερομηνία Συγγραφής Πρωτότυπου Άρθρου**: 15 Σεπτεμβρίου 2020
+
+**Μεταφραστές**: [Donald A. Iljazi](https://twitter.com/oeadgk01), [Iason Andreou](https://twitter.com/jasonrises)
+
+**Ημερομηνία Μετάφρασης**: 09 Νοεμβρίου 2020
